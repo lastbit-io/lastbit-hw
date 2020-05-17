@@ -1,4 +1,4 @@
-# Lastbit Hardware
+# Lastbit Hardware v0
 
 <img src="/Manufactured/asm.gif"/>
 
