@@ -14,7 +14,7 @@ Schematics, CAD files and the Bill Of Materials for the first revision of open s
 
 <p align="center">
     <img src="/Manufactured/cover.png">
-    <img src="/Manufactured/case.png">
+    <img src="/Manufactured/case.jpeg">
     <img src="/Manufactured/go_render.png" width="900" height="615">
 </p>
 
